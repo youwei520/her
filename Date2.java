@@ -13,6 +13,7 @@ public class Date2 {
         SimpleDateFormat sdf1=new SimpleDateFormat("yyyy年MM月dd日");
         String x=sdf1.format(d);
         System.out.println(x);
+        System.out.println();
 
 
 
