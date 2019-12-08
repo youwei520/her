@@ -1,4 +1,4 @@
-package MyBirthday;
+
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -14,7 +14,7 @@ public class Date2 {
         String x=sdf1.format(d);
         System.out.println(x);
 
-
+        //hello
 
     }
 }
